@@ -5,3 +5,4 @@ def add(a,b):
 if __name__=="__main__":
     add(2, 5)
     add(100, 100)
+    add(10+12)
